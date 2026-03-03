@@ -1,0 +1,14 @@
+# CORE WEB FRAMEWORK
+streamlit
+
+# DATABASE CONNECTOR
+supabase
+
+# DOCUMENT GENERATION
+fpdf2
+
+# IMAGE PROCESSING (Shop floor photos)
+Pillow
+
+# DATA ANALYSIS (For production metrics)
+pandas
